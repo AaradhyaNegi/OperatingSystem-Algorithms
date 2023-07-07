@@ -4,7 +4,7 @@
 #include<stdio.h>
 int main() {
     // Declare Variables
-    int nb,blockSize[100],n,jobSize[100],i,j,alloc[100],avail[100],min;
+    int nb,blockSize[100],n,jobSize[100],i,j,alloc[100],avail[100],max;
 
     //Input initial values
     printf("Enter the number of available memory blocks: ");
