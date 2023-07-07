@@ -50,7 +50,7 @@ int main() {
 		}
 		blockSize[min]=-1;
 		//	Initialize avail to 99999
-		for(j=0;j<n;j++) {
+		for(j=0;j<nb;j++) {
 			avail[j]=9999;
 		}
 	}
