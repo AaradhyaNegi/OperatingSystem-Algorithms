@@ -28,7 +28,7 @@ int main() {
 		alloc[i]=-1;
 	}
 	for(i=0;i<nb;i++){
-        avail[i]=-1;
+        avail[i]=99999;
 	}
 
 	// Check for each process the blocks available
